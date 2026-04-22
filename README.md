@@ -1,4 +1,4 @@
-# MiniProject4_Queue
+# MiniProject2_Queue
 
 ## File Structure
 
